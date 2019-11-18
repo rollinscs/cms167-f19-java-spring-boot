@@ -1,1 +1,1 @@
-# cms167-f19-java-spring-boot
+# CMS 167 Java Spring Boot Lab
